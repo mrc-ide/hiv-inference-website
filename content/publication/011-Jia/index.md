@@ -3,11 +3,11 @@ abstract: Risk scoring tool helps prioritise prevention strategies for people mo
 authors:
 - katherinejia
 - hallieeilerts
-- olanrewajuedun
+- edunolanrewaju
 - kevinlam
 - adamhowes
-- matthewthomas
-- jeffreyeaton
+- mattthomas
+- jeffeaton
 date: "2021-09-17T00:00:00Z"
 doi: ""
 pdflink: ""
