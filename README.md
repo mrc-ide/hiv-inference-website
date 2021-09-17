@@ -15,7 +15,7 @@
 
 The following steps 
 
-- Clone the repository `git clone git@github.com:hiv-inference/hiv-inference-website.git`
+- Clone the repository `git clone git@github.com:mrc-ide/hiv-inference-website.git`
 - Create a new branch using `git checkout -b <new_branch_name>`. 
 - Make changes to file and avatar within `content/authors/yourname`.
 - Commit changes using `git commit`.
