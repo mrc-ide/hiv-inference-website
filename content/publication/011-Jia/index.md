@@ -22,7 +22,7 @@ links:
 publication: "Submitted for peer review only"
 publication_short: 
 publication_types:
-- "2"
+- "3"
 publishDate: "Under peer review"
 summary: Younger age, non-cohabiting, and recent STIs were consistently identified as predicting future HIV infection for women in sub-Saharan African settings. Given the heterogeneous context and baseline prevalence, HIV risk scores had only low to moderate discriminatory ability to predict future infection. Further evidence on the importance of specific factors and data outside high-risk study populations will help inform optimal implementation in HIV programmes.
 title: 'Risk scores for predicting HIV incidence among the general population in sub-Saharan Africa: a systematic review and meta-analysis'

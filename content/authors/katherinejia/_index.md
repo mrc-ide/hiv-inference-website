@@ -23,7 +23,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:katherine.jia19@imperial.ac.uk'
-superuser: true
+superuser: false
 title: Katherine Jia
 weight: 1
 user_groups:
