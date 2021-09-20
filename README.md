@@ -45,6 +45,19 @@ blogdown::new_content(
 # or duplicate an existing one and modify it, commit, and pull request
 ```
 
+Classify publication type using the YAML field `publication_types`, see Tim's or 
+Katherin's publication for examples.
+
+- `0`: Uncategorized
+- `1`: Conference paper
+- `2`: Journal article
+- `3`: Preprint / Working Paper
+- `4`: Report
+- `5`: Book
+- `6`: Book section
+- `7`: Thesis (v4.2+ required)
+- `8`: Patent (v4.2+ required)
+
 Here you can edit and preview contents. Once done, commit and create pull 
 request like the previous steps.
 
