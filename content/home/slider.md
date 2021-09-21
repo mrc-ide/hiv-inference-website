@@ -7,7 +7,7 @@ weight = 1  # Order that this section will appear.
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
-interval = false
+interval = 3000
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
@@ -45,6 +45,20 @@ height = ""
 
   cta_label = "Get Naomi"
   cta_url = "https://github.com/mrc-ide/naomi"
+  cta_icon_pack = "fas"
+  cta_icon = "virus-slash"
+
+[[item]]
+  title = "Projects"
+  content = "current running projects"
+  align = "left"
+
+  overlay_color = "#666"  # An HTML color value.
+  overlay_img = "headers/project.png"
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
+
+  cta_label = "Check out"
+  cta_url = "/project/"
   cta_icon_pack = "fas"
   cta_icon = "virus-slash"
 +++
