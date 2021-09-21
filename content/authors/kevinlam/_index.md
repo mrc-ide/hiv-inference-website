@@ -43,11 +43,11 @@ social:
 - icon: external-link-alt
   icon_pack: fas
   link: https://www.imperial.ac.uk/people/jeffrey.eaton
-superuser: true
+superuser: false
 title: Kevin Lam
 weight: 1
 user_groups:
-- Team
+- Alumni
 ---
 
 Jeff Eaton is a Senior Lecturer in HIV Epidemiology in the Department of Infectious Disease Epidemiology at Imperial College London. His research interests involve developing new mathematical models, statistical methods, and surveillance tools to characterize HIV epidemic trends, transmission dynamics, and the demographic impacts of HIV epidemics in sub-Saharan Africa.
