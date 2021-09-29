@@ -2,9 +2,10 @@
 
 ## To do:
 
+- [ ] Make logo and favicon
 - [ ] Get everyone profile done
 - [ ] Get working papers to publications page
-- [ ] Get a proper domain
+- [x] Get a proper domain
 - [ ] Get some nice banner images.
 - [x] Add blog page
 - [ ] Add news / events / updates / features reel.
