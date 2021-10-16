@@ -1,48 +1,32 @@
 ---
 authors:
 - kevinlam
-bio: My research interests involve developing new mathematical models, statistical methods, and surveillance tools to characterize HIV epidemic trends, transmission dynamics, and the demographic impacts of HIV epidemics in sub-Saharan Africa.
+bio: I am interested in applying statistical methods that support decision making for health ministries, involving the use of geospatial, survey, and health programme data.
+
 education:
   courses:
-  - course: PhD in Infectious Disease Epidemiology
-    institution: Imperial College London
-    year: 2013
-  - course: MS in Statistics
-    institution: University of Washington
-    year: 2008
-  - course: BA in Sociology
-    institution: University of Washington
-    year: 2008
-  - course: BS in Mathematics
-    institution: University of Washington
-    year: 2008
-email: "jeffrey.eaton@imperial.ac.uk"
+  - course: MSc Statistical Science
+    institution: University of Oxford
+    year: 2020
+  - course: BSc Mathematics, Operational Research, Statistics, Economics
+    institution: University of Warwick
+    year: 2019
+email: "kevin.lam@imperial.ac.uk"
 interests:
-- Models and statistical methods to characterize HIV epidemic trends
-- HIV transmission dynamics and prevention
-- Demographic impacts of HIV in sub-Saharan Africa
-- Population survey and surveillance methods
-- Population cohort studies
+- Applications of statistical methods in public health
+- Geospatial modelling of travel times to health facilities
+- Bayesian hierarchical modelling of male circumcision prevalence
 organizations:
 - name: 
   url: ""
-role: Senior Lecturer in HIV Epidemiology
+role: Research Assistant
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:jeffrey.eaton@imperial.ac.uk'
+  link: 'mailto:kevin.lam@imperial.ac.uk'
 - icon: github
   icon_pack: fab
-  link: https://github.com/jeffeaton
-- icon: orcid
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/eatonjw
-- icon: external-link-alt
-  icon_pack: fas
-  link: https://www.imperial.ac.uk/people/jeffrey.eaton
+  link: https://github.com/lamke07
 superuser: false
 title: Kevin Lam
 weight: 1
@@ -50,6 +34,6 @@ user_groups:
 - Alumni
 ---
 
-Jeff Eaton is a Senior Lecturer in HIV Epidemiology in the Department of Infectious Disease Epidemiology at Imperial College London. His research interests involve developing new mathematical models, statistical methods, and surveillance tools to characterize HIV epidemic trends, transmission dynamics, and the demographic impacts of HIV epidemics in sub-Saharan Africa.
+I am working on the geospatial framework that models the accessibility of people living with HIV to ART facilties in Malawi and identifying underserved locations where new health facilities may be built. I am currently also developing estimates of the male circumcision prevalence in Malawi.
 
-He co-chairs the [UNAIDS Reference Group on Estimates, Modelling, and Projections](www.epidem.org) which provides guidance to UNAIDS and partner organizations on  the data, methods and tools that underpin global HIV estimates published by UNAIDS. He has a longstanding interest in the collection and analysis of longitudinal HIV data and is a co-investigator of the [ALPHA Network](https://alpha.lshtm.ac.uk/) of general population HIV cohorts in sub-Saharan Africa.
+I have recently started my [PhD in Statistics at the University of British Columbia](https://www.stat.ubc.ca/). My research interests involve working on statistical methodology in Bayesian statistics and statistical learning with the eventual goal of being applied in practice.
