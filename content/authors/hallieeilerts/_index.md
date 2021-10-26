@@ -4,36 +4,19 @@ authors:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Epidemiology and Population Health
+    institution: London School of Hygiene and Tropical Medicine
+    year: 2022
+  - course: MSc in Demography and Health
+    institution: London School of Hygiene and Tropical Medicine
+    year: 2017
+  - course: BA in Global Development Studies and History
+    institution: University of Virginia
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
-interests:
-- Interest Number One
-- Interest Number Two
-- Interest Number Three
+email: "hallie.eilerts@lshtm.ac.uk"
 organizations:
 - name: PhD Student, Department of Population Health, London School of Hygiene and Tropical Medicine
 role: Visiting Researcher
-social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:<insert@domain>'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
 superuser: false
 title: Hallie Eilerts
 weight: 50
@@ -41,6 +24,5 @@ user_groups:
 - Team
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hallie is a PhD student in Epidemiology and Population Health at the London School of Hygiene and Tropical Medicine, supervised by Georges Reniers, Jeff Eaton, and Julio Romero Prieto. Her research focuses on examining bias and uncertainty in under-five mortality estimates for sub-Saharan Africa, and the potential of using individual-level record linkage between demographic surveillance sites and antenatal clinics to improve estimates.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
