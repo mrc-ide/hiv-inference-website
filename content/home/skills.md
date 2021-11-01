@@ -18,19 +18,19 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "EPPASM"
-  description = "Epidemic Projection Package - Age/Sex Model"
+  description = "[Epidemic Projection Package - Age/Sex Model](https://github.com/mrc-ide/eppasm)"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Naomi"
-  description = "Naomi model for subnational HIV estimation"  
+  description = "[Naomi model for subnational HIV estimation](https://github.com/mrc-ide/naomi)"  
   
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Other projects"
-  description = "List of projects"
+  description = "[List of projects](/project/)"
 
 # Uncomment to use emoji icons.
 # [[feature]]
