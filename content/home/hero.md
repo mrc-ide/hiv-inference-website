@@ -51,7 +51,7 @@ hero_media = "hero-hiv.png"
   label = 'We are based in the [MRC Centre for Global Infectious Disease Analysis](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis) in the [Department of Infectious Disease Epidemiology](https://www.imperial.ac.uk/school-public-health/infectious-disease-epidemiology/) at Imperial College London.'
 +++
 
-<span style="font-size:18px;">
+<span style="font-size:18px; text-align:left!important;">
 
 Our research focuses on:
 
