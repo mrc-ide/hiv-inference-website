@@ -1,7 +1,7 @@
 ---
 authors:
 - kaihontang
-bio: My research interests involve developing new mathematical models, statistical methods, and surveillance tools to characterize HIV epidemic trends, transmission dynamics, and the demographic impacts of HIV epidemics in sub-Saharan Africa.
+bio: Research Associate with interests in statistical modelling, currently working on mortality estimation in sub-Saharan Africa.
 education:
   courses:
   - course: PhD in Statistics
