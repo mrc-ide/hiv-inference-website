@@ -21,8 +21,8 @@ subtitle = ""
   description = "[Epidemic Projection Package - Age/Sex Model](https://github.com/mrc-ide/eppasm)"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
+  icon = "naomi"
+  icon_pack = "custom"
   name = "Naomi"
   description = "[Naomi model for subnational HIV estimation](https://github.com/mrc-ide/naomi)"  
   
