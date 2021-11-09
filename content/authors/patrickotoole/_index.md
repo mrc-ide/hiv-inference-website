@@ -34,5 +34,5 @@ user_groups:
 
 Paddy is a Research Assistant in the Department of Infectious Disease, within the Faculty of Medicine. His interests lie in applying Bayesian Methods and Spatial and Spatio-temporal models to assist in modelling the HIV epidemic in Sub-Saharan Africa.
 
-Patrick previously worked as a Data Science Intern at a large Petrochemicals 
+Paddy previously worked as a Data Science Intern at a large Petrochemicals 
 company, and as a Statistician with a Health Data Analytics startup.
