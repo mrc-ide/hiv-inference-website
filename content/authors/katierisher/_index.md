@@ -1,47 +1,38 @@
 ---
 authors:
 - katierisher
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include HIV incidence, sexual behaviour and networks, and HIV care engagement.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
-interests:
-- Interest Number One
-- Interest Number Two
-- Interest Number Three
+  - course: PhD in Epidemiology
+    institution: Johns Hopkins Bloomberg School of Public Health
+    year: 2017
+  - course: MHS in Biostatistics
+    institution: Johns Hopkins Bloomberg School of Public Health
+    year: 2017
+  - course: MHS in Epidemiology
+    institution: Johns Hopkins Bloomberg School of Public Health
+    year: 2013
+  - course: BA in Biology
+    institution: Dartmouth College
+    year: 2010
+email: "k.risher@imperial.ac.uk"
 organizations:
-- name: Research Fellow, Deparartment of Population Health, London School of Hygiene and Tropical Medicine
-  url: "https://www.lshtm.ac.uk/research/faculties/eph/department-population-health"
+- name: Postdoctoral Scholar, Department of Medical Social Sciences, Northwestern University
+  url: "https://www.mss.northwestern.edu/"
 role: Honorary Research Fellow
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:<insert@domain>'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: 'mailto:<kathryn.risher@imperial.ac.uk>'
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.com/citations?user=byfRUfsAAAAJ&hl=en&oi=ao
 superuser: false
-title: Dr Katie Risher
+title: Katie Risher
 weight: 20
 user_groups:
 - Team
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Katie is a postdoctoral scholar in the Department of Medical Social Sciences at Northwestern University. Her work with the HIV Inference Group at Imperial has primarily been in collaboration with the [ALPHA Network](https://alpha.lshtm.ac.uk/), a consortium of general population HIV cohort studies in eastern and southern Africa. Her work has focused on HIV incidence and recency testing, sexual behaviour and networks, and HIV care engagement. 
