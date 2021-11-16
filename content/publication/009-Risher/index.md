@@ -10,7 +10,7 @@ authors:
 - katierisher
 - jeffeaton
 date: "2021-06-24T00:00:00Z"
-doi: "need_update"
+doi: "10.1016/S2352-3018(21)00069-2"
 pdflink: ""
 featured: false
 image:
