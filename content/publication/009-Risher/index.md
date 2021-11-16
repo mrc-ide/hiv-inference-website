@@ -24,7 +24,7 @@ publication: "Lancet HIV"
 publication_short: "Lancet HIV"
 publication_types:
 - "2"
-publishDate: "need_update"
+publishDate: "2021-07-01T00:00:00Z"
 summary: >
   HIV incidence declined in all age groups and shifted slightly, but not
     dramatically, to older ages. Disproportionate new HIV infections occur among
