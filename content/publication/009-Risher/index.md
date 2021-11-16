@@ -34,5 +34,5 @@ summary: >
     of all ages.
 title: >
   Age patterns of HIV incidence in eastern and southern Africa
-url_pdf: "need_update"
+url_pdf: "https://www.thelancet.com/action/showPdf?pii=S2352-3018%2821%2900069-2"
 ---
