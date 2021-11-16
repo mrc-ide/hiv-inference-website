@@ -19,7 +19,7 @@ image:
   preview_only: false
 links:
 - name: Link to Paper
-  url: need_update
+  url: https://www.thelancet.com/journals/lanhiv/article/PIIS2352-3018(21)00069-2/fulltext
 publication: "need_update"
 publication_short: "need_update"
 publication_types:
