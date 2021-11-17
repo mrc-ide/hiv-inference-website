@@ -1,7 +1,12 @@
 ---
 title: "Naomi: A New Modelling Tool for Estimating HIV Epidemic Indicators at the District Level in Sub-Saharan Africa"
 subtitle: ""
-summary: ""
+summary: >
+  The Naomi model synthesizes multiple subnational data sources to furnish
+    estimates of key indicators for HIV programme planning, resource allocation,
+    and target setting. Further model development to meet evolving HIV policy
+    priorities and programme need should be accompanied by continued
+    strengthening and understanding of routine health system data.
 authors:
 - jeffeaton
 - Laura Dwyer-Lindgren
