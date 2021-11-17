@@ -47,7 +47,7 @@ blogdown::new_content(
 ```
 
 Classify publication type using the YAML field `publication_types`, see Tim's or 
-Katherin's publication for examples.
+Katherine's publication for examples.
 
 - `0`: Uncategorized
 - `1`: Conference paper

@@ -2,8 +2,11 @@
 abstract: The age dynamics of sexual partnership formation determine patterns of sexually transmitted disease transmission and have long been a focus of researchers studying human immunodeficiency virus. Data on self-reported sexual partner age distributions are available from a variety of sources. We sought to explore statistical models that accurately predict the distribution of sexual partner ages over age and sex. We identified which probability distributions and outcome specifications best captured variation in partner age and quantified the benefits of modelling these data using distributional regression. We found that distributional regression with a sinh-arcsinh distribution replicated observed partner age distributions most accurately across three geographically diverse data sets. This framework can be extended with well-known hierarchical modelling tools and can help improve estimates of sexual age-mixing dynamics.
 authors:
 - timwolock
-- jeffeaton
+- Seth Flaxman
 - katierisher
+- Tawanda Dadirai
+- Simon Gregson
+- jeffeaton
 date: "2021-06-24T00:00:00Z"
 doi: "10.7554/eLife.68318"
 pdflink: ""
