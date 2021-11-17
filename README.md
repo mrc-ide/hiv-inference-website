@@ -10,7 +10,7 @@
 - [x] Add blog page
 - [ ] Add news / events / updates / features reel.
 - [x] Add project pages
-- [ ] Add Disqus or other commenting options.
+- [ ] Add utterances commenting option.
 
 ## Editing your profile
 
@@ -22,11 +22,11 @@ The following steps
 - Commit changes using `git commit`.
 - Create a pull request to branch `master`. 
 
-### Adding contents
+## Adding contents (blog post, paper)
 
 Assumed working directory is the cloned folder above
 
-```{r}
+```r
 # Start serving a preview of the website
 blogdown::serve_site()
 
@@ -43,11 +43,80 @@ blogdown::new_content(
   path = "publications/005-Eaton/index.md", 
   kind = "publication")
 
-# or duplicate an existing one and modify it, commit, and pull request
 ```
 
-Classify publication type using the YAML field `publication_types`, see Tim's or 
-Katherin's publication for examples.
+> It's easier to duplicate an existing one and modify it, commit, and pull
+> request.
+
+## Notes on content formatting
+
+
+
+### Format text in YAML field
+
+To write content in YAML fields, such as paper's `summary`, `abstract`, there
+are three options:
+
+- short text: quote the text with double quote
+  
+  ```yaml
+  summary: "text go here"
+  ```
+
+- a paragraph without structure: using `>` after the field allows you to break 
+  the line for easier editing without reflecting the line breaks on the actual
+  results. For example, 
+
+  ```yaml
+  summary: >
+    Text
+    with arbitrarily line
+    break.
+  ```
+
+  will show up as
+  
+  Text
+  with arbitrarily line
+  break.
+  
+- a structured page: using `|` instead of `>` allow writing normal markdown,
+  including splitting text into paragraphs. 
+
+  ```yaml
+  summary: |
+    **Text**
+    with arbitrarily line
+
+    break.
+  ```
+
+  will appear as 
+
+  **Text**
+  with arbitrarily line
+
+  break.
+
+
+### Publication fields
+
+### authors
+
+Using full names for co-authors who does not have a profile in the team and and
+name tags for team members to link their profile page. Team's name tags can be
+found in `content/authors/`
+
+### summary
+
+Text will appear on publication listing but not on the main paper article.
+
+### 
+
+### Type
+
+Classify publication type using the YAML field `publication_types`, see
+Tim's or Katherine's publication for examples.
 
 - `0`: Uncategorized
 - `1`: Conference paper
@@ -58,30 +127,3 @@ Katherin's publication for examples.
 - `6`: Book section
 - `7`: Thesis (v4.2+ required)
 - `8`: Patent (v4.2+ required)
-
-Here you can edit and preview contents. Once done, commit and create pull 
-request like the previous steps.
-
-#### non-RStudio
-
-Assuming you have cloned this repo to `~/hivref`, then open Terminal and do
-
-```bash
-cd ~/hivref
-hugo new content/blog/the-title-of-your-blog.md
-# on Mac this will open your default markdown's editor
-open content/blog/the-title-of-your-blog.md
-hugo serve
-# add publication
-hugo new --kind publication publications/005-ABC/
-```
-
-Start to fill in the contents while previewing it at `localhost:1313` on your
-browser (assuming [Hugo](https://github.com/gohugoio/hugo/releases) is already
-installed).
-
-Once done editing, commit the changes > push > make pull request.
-
-## Design notes
-
-* Theme colors are defined in `data/themes/custom_theme.toml`. The theme can be changed by setting the `theme = ` line in `config/_default/params.toml`.
