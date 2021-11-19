@@ -1,45 +1,24 @@
 ---
 authors:
 - katebilsborrow
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 email: ""
-interests:
-- Interest Number One
-- Interest Number Two
-- Interest Number Three
 organizations:
 role: Project Administrator
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:<insert@domain>'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: 'mailto:k.bilsborrow@imperial.ac.uk'
 superuser: false
 title: Kate Bilsborrow
-weight: 40
+weight: 1
 user_groups:
 - Team
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My name is Kate Bilsborrow and I’ve worked at Imperial for nearly ten years. I’m
+an Admin Assistant and part of my job is to manage Jeff Eaton’s portfolio of
+grants. Before I worked at Imperial, I was a Grants Manager at the Harvard
+School of Public Health in Boston, where I lived for six years. I have a BA in
+English Language and Literature from Oxford and in my spare time, I enjoy
+reading, travelling and spending time with my husband Jeff and seven-year-old
+son John.
