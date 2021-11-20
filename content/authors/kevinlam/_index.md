@@ -31,7 +31,7 @@ superuser: false
 title: Kevin Lam
 weight: 1
 user_groups:
-- Alumni
+- Team
 ---
 
 I am working on the geospatial framework that models the accessibility of people living with HIV to ART facilties in Malawi and identifying underserved locations where new health facilities may be built. I am currently also developing estimates of the male circumcision prevalence in Malawi.
