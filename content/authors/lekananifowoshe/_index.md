@@ -2,13 +2,13 @@
 authors:
 - lekananifowoshe
 education:
-  - Msc in Information Technology with Business and Management
+  courses:
+  - course: Msc in Information Technology with Business and Management
     institution: University of Sussex
     year: 2018
   - course: Bsc in Information Technology
     institution: Eastern Mediterranean University
-    year: 2011
-    
+    year: 2011  
 email: "y.anifowoshe@imperial.ac.uk"
 interests:
 - Bioinformatics
