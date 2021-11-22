@@ -32,9 +32,9 @@ social:
 - icon: external-link-alt
   icon_pack: fas
   link: https://www.imperial.ac.uk/people/y.anifowoshe
-superuser: true
+
 title: Lekan Anifowoshe
-weight: 1
+weight: 2
 user_groups:
 - Team
 ---
