@@ -4,7 +4,7 @@ authors:
 bio: Anti-viridis activist 
 education:
   courses:
- - course: PhD in Global Public Health
+  - course: PhD in Global Public Health
     institution: University of Geneva
     year: 2022 (planned)
   - course: Clinical Immunology Msc
