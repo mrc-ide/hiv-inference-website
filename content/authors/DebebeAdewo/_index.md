@@ -4,9 +4,8 @@ authors:
 bio: PhD Student in Statistics
 education:
   courses:
-  - course: PhD in Statistics
-    institution: Imperial College London
-    year: 2023
+  - course: PhD in Epidemiology
+    institution: The University of Melbourne
   - course: MSc in Statistics
     institution: University of Warwick
     year: 2019
