@@ -13,7 +13,7 @@ interests:
 - Databases
 - Trying to understand science code
 organizations:
-role: Research Software Engineer
+role: Senior Research Software Engineer
 social:
 - icon: envelope
   icon_pack: fas
