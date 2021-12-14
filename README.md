@@ -3,14 +3,14 @@
 ## To do:
 
 - [ ] Make logo and favicon
-- [ ] Get everyone profile done
 - [ ] Get working papers to publications page
-- [x] Get a proper domain
 - [ ] Get some nice banner images.
-- [x] Add blog page
 - [ ] Add news / events / updates / features reel.
+- [x] Get everyone profile done
+- [x] Get a proper domain
+- [x] Add blog page
 - [x] Add project pages
-- [ ] Add utterances commenting option.
+- [x] Add utterances commenting option.
 
 ## Editing your profile
 
