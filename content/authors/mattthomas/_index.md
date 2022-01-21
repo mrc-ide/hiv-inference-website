@@ -12,7 +12,7 @@ education:
   - course: BSc in Mathematics and Statistics (with Professional Placement)
     institution: University of Bath
     year: 2010-2014
-email: "matthew.thomas@imperial.ac.uk"
+email: "m.l.thomas@exeter.ac.uk"
 interests:
 - Bayesian hierarchical Modelling
 - Spatial and spatio-temporal statistics
@@ -46,7 +46,7 @@ user_groups:
 - Team
 ---
 
-Matthew Thomas a Visiting Researcher in the Department of Infectious Disease Epidemiology at Imperial College London and a Postdoctoral Research Fellow at the University of Exeter. His research interests are spatial and spatio-temporal statistics and the implementation of Bayesian hierarchical models with applications in the environment and public health. Matthew's current research within the HIV Inference Group include estimating district-level circumcision rates and coverage in sub-Saharan Africa and modelling facility-level attendance for anti-retroviral treatment in Malawi. 
+Matt is a Lecturer in Environmental Intelligence at the Met Office and University of Exeter's Joint Centre of Excellence in Environmental Intelligence. He is also a Visiting Researcher in the Department of Infectious Disease Epidemiology at Imperial College London. His research interests lie in spatial and spatio-temporal statistics and the implementation of Bayesian hierarchical models with applications in the environment and public health. Matt's current research within the HIV Inference Group include estimating district-level circumcision rates and coverage in sub-Saharan Africa and modelling facility-level attendance for anti-retroviral treatment in Malawi. 
 
 
 
