@@ -43,6 +43,5 @@ user_groups:
 - Team
 ---
 
-Adam is a second year PhD student in Statistics in the Mathematics Department at Imperial College London, supervised by Seth Flaxman and Jeff Eaton.
-The focus of his research is about Bayesian spatial statistics wih latent Gaussian models and Bayesian survey design.
+Adam is a PhD student in Statistics in the Mathematics Department at Imperial College London, supervised by Seth Flaxman and Jeff Eaton, researching Bayesian spatial statistics.
 He is a member of the StatML CDT in Modern Statistics and Statistical Machine Learning at Imperial and Oxford.
