@@ -40,7 +40,7 @@ blogdown::new_post(
 
 # Create a new publication
 blogdown::new_content(
-  path = "publications/005-Eaton/index.md", 
+  path = "publication/005-Eaton/index.md", 
   kind = "publication")
 
 ```
